@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1623336254 source:c:\cprojects\laba3\menu.cpp
+	"Menu.h"
+
+1623276191 source:c:\cprojects\laba3\main.cpp
+	<iostream>
+	<iostream>
+	<locale>
+	"BinaryTree.h"
+	"Complex.h"
+	"Function.h"
+	"Menu.h"
+	"Tests.h"
+	"BinaryHeap.h"
+
+1623332275 c:\cprojects\laba3\binaryheap.h
+	<iostream>
+	<list>
+	<cmath>
+
+1623324142 source:c:\cprojects\laba3\complex.cpp
+	"Complex.h"
+
+1623274088 c:\cprojects\laba3\complex.h
+	<iostream>
+
+1623335533 source:c:\cprojects\laba3\function.cpp
+	"Function.h"
+
+1623335533 c:\cprojects\laba3\function.h
+	<string>
+	"Complex.h"
+
+1623335483 c:\cprojects\laba3\binarytree.h
+	<iostream>
+	"Function.h"
+	<queue>
+
+1623276191 c:\cprojects\laba3\menu.h
+	<iostream>
+	"BinaryTree.h"
+	"BinaryHeap.h"
+
+1623332217 c:\cprojects\laba3\tests.h
+	"Complex.h"
+	"Function.h"
+	"BinaryHeap.h"
+	"BinaryTree.h"
+	<iostream>
+	<cassert>
+

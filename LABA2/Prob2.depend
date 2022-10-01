@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1622549370 source:c:\cprojects\prob2\menu.cpp
+	"menu.h"
+	"stdlib.h"
+
+1622549370 c:\cprojects\prob2\menu.h
+	"ArraySequence.h"
+	"Matrix.h"
+	"SquareMatrix.h"
+	<iostream>
+	"Complex.h"
+	<ctime>
+
+1622546871 c:\cprojects\prob2\arraysequence.h
+	"Sequence.h"
+	"DinamicArray.h"
+
+1622549370 c:\cprojects\prob2\sequence.h
+
+1622549370 c:\cprojects\prob2\dinamicarray.h
+	<iostream>
+	<stdexcept>
+
+1622549370 c:\cprojects\prob2\matrix.h
+	"ArraySequence.h"
+	"Complex.h"
+
+1622549370 c:\cprojects\prob2\complex.h
+	<cmath>
+	<iomanip>
+
+1622549370 c:\cprojects\prob2\squarematrix.h
+	"ArraySequence.h"
+
+1622549753 source:c:\cprojects\prob2\main.cpp
+	<iostream>
+	"menu.h"
+	"Tests.h"
+
+1622485575 source:c:\cprojects\prob2\tests_da.cpp
+
+1622546853 source:c:\cprojects\prob2\tests.cpp
+
+1622545414 c:\cprojects\prob2\linkedlist.h
+	<iterator>
+	"DinamicArray.h"
+
+1622545414 c:\cprojects\prob2\linkedlistsequence.h
+	"ArraySequence.h"
+	"LinkedList.h"
+
+1622549753 c:\cprojects\prob2\tests.h
+	"DinamicArray.h"
+	"LinkedList.h"
+	"Matrix.h"
+	"ArraySequence.h"
+	"LinkedListSequence.h"
+	"Complex.h"
+	"SquareMatrix.h"
+	<iostream>
+	<cassert>
+

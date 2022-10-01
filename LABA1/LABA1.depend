@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1618227705 source:c:\cprojects\laba1\iarray.c
+	<stdint.h>
+	"Array.h"
+	"IArray.h"
+
+1618302556 source:c:\cprojects\laba1\main.c
+	"menu.h"
+
+1618264650 source:c:\cprojects\laba1\carray.c
+	<stdint.h>
+	"Array.h"
+	"CArray.h"
+
+1618215430 source:c:\cprojects\laba1\pomoika.c
+
+1618260343 source:c:\cprojects\laba1\array.c
+	"Array.h"
+
+1618225976 c:\cprojects\laba1\array.h
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+
+1618225976 c:\cprojects\laba1\iarray.h
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	"Array.h"
+
+1618302494 c:\cprojects\laba1\menu.h
+	"Array.h"
+	"IArray.h"
+	"CArray.h"
+	"test.h"
+
+1618302569 c:\cprojects\laba1\carray.h
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	"Array.h"
+
+1618302453 source:c:\cprojects\laba1\menu.c
+	"menu.h"
+
+1618309953 source:c:\cprojects\laba1\test.c
+	"test.h"
+
+1618302447 c:\cprojects\laba1\test.h
+	"Array.h"
+	"IArray.h"
+	"CArray.h"
+

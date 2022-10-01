@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1622812335 source:c:\cprojects\laba2\main.cpp
+	<iostream>
+	"menu.h"
+	"Tests.h"
+
+1622549370 c:\cprojects\laba2\menu.h
+	"ArraySequence.h"
+	"Matrix.h"
+	"SquareMatrix.h"
+	<iostream>
+	"Complex.h"
+	<ctime>
+
+1622546871 c:\cprojects\laba2\arraysequence.h
+	"Sequence.h"
+	"DinamicArray.h"
+
+1622549370 c:\cprojects\laba2\sequence.h
+
+1622549370 c:\cprojects\laba2\dinamicarray.h
+	<iostream>
+	<stdexcept>
+
+1622549370 c:\cprojects\laba2\matrix.h
+	"ArraySequence.h"
+	"Complex.h"
+
+1622549370 c:\cprojects\laba2\complex.h
+	<cmath>
+	<iomanip>
+
+1622993154 c:\cprojects\laba2\squarematrix.h
+	"ArraySequence.h"
+
+1622993154 c:\cprojects\laba2\tests.h
+	"DinamicArray.h"
+	"LinkedList.h"
+	"Matrix.h"
+	"ArraySequence.h"
+	"LinkedListSequence.h"
+	"Complex.h"
+	"SquareMatrix.h"
+	<iostream>
+	<cassert>
+
+1622545414 c:\cprojects\laba2\linkedlist.h
+	<iterator>
+	"DinamicArray.h"
+
+1622545414 c:\cprojects\laba2\linkedlistsequence.h
+	"ArraySequence.h"
+	"LinkedList.h"
+
+1623154403 source:c:\cprojects\laba2\menu.cpp
+	"menu.h"
+	"stdlib.h"
+
